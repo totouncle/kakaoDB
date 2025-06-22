@@ -1,1 +1,1 @@
-pysqlcipher3==1.0.3
+sqlcipher3
